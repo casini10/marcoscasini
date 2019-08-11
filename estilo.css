@@ -1,0 +1,171 @@
+#img1{
+    width: 7%;
+    height: 7%;
+    display: block;
+    margin-left: 46.5%;
+    box-shadow: 4px 4px 4px  green;
+    }
+    
+    
+    
+    #img2{
+        height: 100%;  
+        display: inline-block;
+        
+    }
+    
+    #img3{
+        height:35%;
+        width: 21%;
+        display: inline-block;
+        margin-bottom: -1%
+    
+    }
+    
+    #img4{
+        width: 37%;
+        height: 32%;
+        margin-left:0%;
+        margin-top: 2%;
+        display: inline-block;
+        margin-top:0%;
+        margin-bottom:-1%;
+        
+    }
+    
+    
+    #img5{
+        height:20%;
+        width: 20%;
+        display: inline-block;
+    }
+    
+    
+    p{
+     
+     font-size: 30px;
+     text-align: center;
+     font-family: 'Times';
+    
+    }
+    
+    #div1{
+        border: 2px solid green;
+        background-color:rgb(7, 179, 7);
+        
+    }
+    
+    #div2{
+        height: 175px;
+        width: 40%;
+        border: 2px solid gold;
+        background-color: rgb(6, 223, 6);;
+        
+    }
+    
+    #div3{
+        border: 2px solid gold;
+        background-color: rgb(6, 223, 6);;
+        display: inline-block;
+        margin-left: 60%;
+     
+        
+        
+    }
+    
+    #div4{
+        width: 40%;
+        border: 2px solid gold;
+        background-color: rgb(6, 223, 6);;
+        display: inline-block;
+        
+     
+        
+        
+    }
+    
+    #div5{
+        width: 49%;
+        border: 2px solid  gold;
+        background-color:  rgb(6, 223, 6);;
+        display: inline-block;
+        margin-left: 50.55%;
+     
+           
+    }
+    
+    
+    
+    body{
+        margin:2px;
+        padding: 3px;
+        background-color: snow;
+        border: 2px solid gold
+    }
+    
+    #tab3{
+        font-family: Times;
+        background-color:snow;
+        color: black;
+        display: inline-block;
+        margin-left: 5%;
+        border:2px solid black;
+        text-align: center;
+        margin-bottom: 2%;
+        
+    }
+    
+    
+    #tab4{
+        font-family: Times;
+        background-color:snow;
+        color: black;
+        display: inline-block;
+        margin-left: 2%;
+        border:2px solid black;
+        text-align: center;
+    }
+    
+    
+    
+    #tab2{
+        font-family: Times;
+        background-color:snow;
+        color: black;
+        display:inline-block;
+       /* margin-top: -10%;
+        float: right;*/
+        border:2px solid black;
+        text-align: center;
+        margin-bottom: 2%;
+    
+        }
+    
+    #tab5{
+        font-family: Times;
+        background-color:snow;
+        color: black;
+        display:inline-block;
+       /* margin-top: -10%;
+        float: right;*/
+        border:2px solid black;
+        text-align: center;
+        }
+    
+    
+    
+      
+        #mar{
+            
+            float: right;
+            background-color: gray;
+            color: black;
+         }
+    
+         #tec{
+            margin-left: 12%;
+         }
+    
+         #ham{
+            margin-left: 12%; 
+         }
